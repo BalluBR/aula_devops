@@ -1,2 +1,2 @@
 01 Mundo
-Segunda linha feita dentro do repositório (servidor)
+Segunda linha feita dentro do repositório (servidor) para mostrar como atualizar a base local depois de alterações na base remota
